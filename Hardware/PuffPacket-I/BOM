@@ -1,0 +1,29 @@
+Partlist
+
+Exported from PuffPacket-I.brd at 12/15/18 8:10 AM
+
+EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part      Value              Package             Library                                Position (mm)         Orientation
+
+C1        1uf                C0603               resistor                               (9.652 78.74)         MR0
+C3        0.1uf              C0603               resistor                               (9.652 80.01)         MR180
+C4        1uf                C0603               resistor                               (8.89 74.168)         MR180
+C5        1uf                C0603               resistor                               (12.319 83.058)       MR270
+PAD+                         SMD1,27-2,54        wirepad                                (17.018 72.517)       MR270
+PAD-                         SMD1,27-2,54        wirepad                                (12.827 72.517)       MR270
+PAD1                         SMD1,27-2,54        wirepad                                (9.779 72.517)        MR270
+PAD2                         SMD1,27-2,54        wirepad                                (7.874 76.708)        MR0
+PULLDOWN  10k                R0603               resistor                               (20.955 75.565)       MR0
+PULLDOWN1 10k                R0603               resistor                               (21.844 77.724)       MR90
+PULLUP    10k                R0603               resistor                               (19.431 81.28)        MR270
+PULLUP1   10k                R0603               resistor                               (16.637 81.28)        MR90
+SHUNT     0.1 ohm            R2512               resistor                               (15.367 74.93)        MR180
+SJ1                          R0402               resistor                               (21.59 72.39)         MR0
+SJ2                          R0402               resistor                               (23.241 74.549)       MR90
+U$1       RFD22301           RFD21733            RFD22301-11.25.13                      (15.24 80.01)         R180
+U$2       HEADERS_X11_1.25MM HEADERS_X11_1.25MM  Alex_parts                             (6.096 73.787)        R90
+U1        INA219AIDCNR       SOT65P280X145-8N    Texas Instruments_By_element14_Batch_1 (15.875 78.359)       MR180
+U2        TLV70030DSER       SON50P150X150X80-6N Texas Instruments_By_element14_Batch_1 (10.16 76.2)          MR180
