@@ -54,7 +54,14 @@ PuffPacket V
 
 Modifying the Charger
   
-  Modyfing the Coin Cell Holder
+Modyfing the Coin Cell Holder
+* To allow the coin cell holder to slide batteries in and out, simply snip off the front clips as show below.
+
+
+Using the Programmer
+  * The programmer fits directly in the 1.25 mm pitch pin header on the PuffPacket device as shown below.
+  ![alt-tex](https://github.com/PuffPacket/PuffPacket/blob/master/Images/programming2.jpg)
+  ![alt-tex](https://github.com/PuffPacket/PuffPacket/blob/master/Images/programming1.jpg)  
   
 # Example Data
   * PuffPacket-V
