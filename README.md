@@ -5,6 +5,8 @@ PuffPacket is a system for capturing electronic nicotine delivery systems (ENDS)
   * PuffPacket-VR: Volatge monitoring with a rechargable battery 
 ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPackets.jpg)
 
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket_block%20Diagram.png)
+
 # Software needed
 To running arduino files, you will need to install the [RFDuino board library](http://www.rfduino.com/wp-content/uploads/2015/08/RFduino-Quick-Start-Guide-08.21.15-11.40AM.pdf).
 
@@ -19,7 +21,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   * [RFD22301](http://www.rfduino.com/product/rfd22301-rfduino-ble-smt/index.html) microprocessor and BLE module
   * [RFDuino programming Module](http://www.rfduino.com/product/rfd22121-usb-shield-for-rfduino/index.html)
   * Surfacemount resistor and capacitors
-  * [Flat Flexible Cable](https://www.digikey.com/product-detail/en/parlex-usa-llc/PSR1635-02/AF02-5-ND/213494)
+  * [Flat Flexible Cable (FFC)](https://www.digikey.com/product-detail/en/parlex-usa-llc/PSR1635-02/AF02-5-ND/213494)
   * ENDS device of your choice
   * Kapton and Double Sided Tape
   * Heat Shrink
@@ -31,7 +33,8 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   
 
 # Putting it together
-
+PuffPacket V
+  * To install the probes, take the FFC and strip back the coating on both sides at one end.  This can be done with a scalple or utility knife
 # Example Data
   * PuffPacket-V
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/voltageFiltered.jpg)
