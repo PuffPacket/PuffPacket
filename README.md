@@ -73,5 +73,5 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
 * ## PuffPacket-V
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/voltageFiltered.jpg)
   
-  * ## PuffPacket-I
+* ## PuffPacket-I
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/currentSample.jpg)
