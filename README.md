@@ -33,7 +33,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   
 
 # Putting it together
-## PuffPacket V
+## PuffPacket-V
   * To install the probes, take the FFC and strip back the coating on both sides at one end.  This can be done with a scalple or utility knife ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/ffc_leads.jpg)
   * The leads should then be placed in between the heating element and heating circuit if the ENDS
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/v-Probes.jpg)
