@@ -44,11 +44,12 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   * ### For PuffPacket-VD
       * Solder the GND terminal of the modified coin cell Holder directy to the ground plane or the ground ternimal of the board.  The coin cell holder should also be secured to the ENDS with double sided tape, using katop to keep the exposed part of the tape from sticking to the battery.
       * Connect the positive terminal of the coin cell holder the the VD + input (goes to the Transitor Power Protection line instead of the LDO regulator) 
+      ![alt-text]()
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD2.jpg)
       * The entire circuit can then be covered in heat shrink, Leave a battery in while heat shriking (! be careful not to apply to much heat to the battery!!!)
       * Cut a slit by the open end of the modified coin cell holder so you can slide the battery in and out
       ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_3.jpg)
-      ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_4.jpg)
+      ![alt-text](![alt-text](D_4.jpg)
       
       * ### For Puff Packet-VR  
 
