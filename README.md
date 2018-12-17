@@ -33,3 +33,8 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
 # Putting it together
 
 # Example Data
+  * PuffPacket-V
+  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/voltageFiltered.jpg)
+  
+  * PuffPacket-I
+  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/currentSample.jpg)
