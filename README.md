@@ -6,8 +6,7 @@ PuffPacket is a system for capturing electronic nicotine delivery systems (ENDS)
 
 
 # Software needed
-To running arduino files, you will need to install the RFDuino board library:
-http://www.rfduino.com/wp-content/uploads/2015/08/RFduino-Quick-Start-Guide-08.21.15-11.40AM.pdf
+To running arduino files, you will need to install the [RFDuino board library](http://www.rfduino.com/wp-content/uploads/2015/08/RFduino-Quick-Start-Guide-08.21.15-11.40AM.pdf).
 
 Other libraries needed can be found in the Arduino folder and installed as Zip libraries.
 
