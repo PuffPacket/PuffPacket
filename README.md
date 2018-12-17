@@ -66,7 +66,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
 ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/batteryMod2.jpg)
 
 ## Using the Programmer
-  * The programmer fits directly in the 1.25 mm pitch pin header on the PuffPacket device as shown below.
+  * The programmer fits directly in the 1.25 mm pitch pin header on the PuffPacket device as shown below.  Be sure and remove or do not connect the +3v pin on the rfDuino programmer.
   ![alt-tex](https://github.com/PuffPacket/PuffPacket/blob/master/Images/programming2.jpg)
   ![alt-tex](https://github.com/PuffPacket/PuffPacket/blob/master/Images/programming1.jpg)  
   
