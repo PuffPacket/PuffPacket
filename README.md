@@ -23,6 +23,12 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   * ENDS device of your choice
   * Kapton and Double Sided Tape
   * Heat Shrink
+  * [LiPo Battery](https://www.sparkfun.com/products/13853) (VR only)
+  * [LiPo Charger](https://www.adafruit.com/product/1904) (VR Only)
+  * CR2032 coin cell battery (VD only)
+  * [Coin Cell battery holder](https://www.digikey.com/product-detail/en/mpd-memory-protection-devices/BU2032SM-BT-GTR/BU2032SM-BT-GCT-ND/3628531) (VD Only)
+  * [INA219 Current Monitor IC](https://www.digikey.com/product-detail/en/texas-instruments/INA219BIDCNT/296-27898-2-ND/2426056) (I Only)
+  
 
 # Putting it together
 
