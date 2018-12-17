@@ -52,11 +52,17 @@ PuffPacket V
       
   *For Puff Packet-VR  
 
-Modifying the Charger
-  
+Modifying the Wall Charger
+  * To modify the wall/usb charger for the ENDS, simply add conductive tape from the leads up to a surface you can mount male headers.  Solder the headers to the conductive tape and glue everything in place. We used a piece of acrylic to reinforce everything as it will be used frequently.
+  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/modifiedCharger.jpg)
+Modyfing the LiPo Charger
+  * To Modify the Micro-LiPo charge, just remove the JST connector and Micro usb connect, then sand or cut away the excess board without removing any of the traces as show below.
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/AdafruitMicro-Lipo.jpg)
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/AdafruitMicroLipoTrimmed.jpg)
 Modyfing the Coin Cell Holder
 * To allow the coin cell holder to slide batteries in and out, simply snip off the front clips as show below.
-
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/batteryMod1.jpg)
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/batteryMod2.jpg)
 
 Using the Programmer
   * The programmer fits directly in the 1.25 mm pitch pin header on the PuffPacket device as shown below.
