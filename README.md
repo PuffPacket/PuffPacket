@@ -39,7 +39,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/v-Probes.jpg)
   * Secure the leads to the ENDS with Kapton, then place double sided tape to secure the PuffPacket-V Board to the ENDS
    ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-V.jpg)
-  * Strip and solder the other end of the Leads to the PuffPacket-V voltage input.  Double check the polarity with a MuliMeter
+  * Strip and solder the other end of the Leads to the PuffPacket-V voltage input.  Double check the polarity with a MultiMeter
   * Insulate and secure the Board with Kapton
   * ### For PuffPacket-VD
       * Solder the GND terminal of the modified coin cell Holder directy to the ground plane or the ground ternimal of the board.  The coin cell holder should also be secured to the ENDS with double sided tape, using katop to keep the exposed part of the tape from sticking to the battery.
