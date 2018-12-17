@@ -1,9 +1,9 @@
 # PuffPacket ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Software/Mobile%20Applications/iOS/PuffDuration/rfDuinoJuul/icon.png)
-PuffPacket is a system for capturing electronic nicotine delivery systems (ENDS) usage.  The system piggybacks the existing electrical signals (voltage and current) to determine when a puff happens and how long it is.  The code in this repository works with the RFD22301 and has a iOS application that can be used to capture other useful data while analyzing ENDS use.  This includes GPS, Activity, and Accelerometer data.  Below are more details about how to implement the three different PuffPacket Systems:
+PuffPacket is a system for capturing electronic nicotine delivery systems (ENDS) usage.  The system piggybacks the existing electrical signals (voltage and current) to determine when a puff happens and how long it is.  The code in this repository works with the RFD22301 and has a iOS application that can be used to capture other useful data while analyzing ENDS use.  This includes GPS, Activity, and Accelerometer data.  Below are more details about how to implement the three different PuffPacket Systems (left to right):
+  * PuffPacket-I: Current Monitoring, powered by the ENDS internall battery)
   * PuffPacket-VD: Volatge monitoring with a dispposable battery
   * PuffPacket-VR: Volatge monitoring with a rechargable battery 
-  *  PuffPacket-I: Current Monitoring, powered by the ENDS internall battery)
-
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPackets.jpg)
 
 # Software needed
 To running arduino files, you will need to install the [RFDuino board library](http://www.rfduino.com/wp-content/uploads/2015/08/RFduino-Quick-Start-Guide-08.21.15-11.40AM.pdf).
