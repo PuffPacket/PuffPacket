@@ -22,7 +22,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
   * [RFDuino programming Module](http://www.rfduino.com/product/rfd22121-usb-shield-for-rfduino/index.html)
   * Surfacemount resistor and capacitors
   * [Flat Flexible Cable (FFC)](https://www.digikey.com/product-detail/en/parlex-usa-llc/PSR1635-02/AF02-5-ND/213494)
-  * ENDS device of your choice
+  * ENDS of your choice
   * Kapton and Double Sided Tape
   * Heat Shrink
   * [LiPo Battery](https://www.sparkfun.com/products/13853) (VR only)
@@ -34,7 +34,28 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
 
 # Putting it together
 PuffPacket V
-  * To install the probes, take the FFC and strip back the coating on both sides at one end.  This can be done with a scalple or utility knife
+  * To install the probes, take the FFC and strip back the coating on both sides at one end.  This can be done with a scalple or utility knife ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/ffc_leads.jpg)
+  * The leads should then be placed in between the heating element and heating circuit if the ENDS
+  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/v-Probes.jpg)
+  * Secure the leads to the ENDS with Kapton, then place double sided tape to secure the PuffPacket-V Board to the ENDS
+   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-V.jpg)
+  * Strip and solder the other end of the Leads to the PuffPacket-V voltage input.  Double check the polarity with a MuliMeter
+  * Insulate and secure the Board with Kapton
+  * For PuffPacket-VD
+      * Solder the GND terminal of the modified coin cell Holder directy to the ground plane or the ground ternimal of the board.  The coin cell holder should also be secured to the ENDS with double sided tape, using katop to keep the exposed part of the tape from sticking to the battery.
+      * Connect the positive terminal of the coin cell holder the the VD + input (goes to the Transitor Power Protection line instead of the LDO regulator) 
+  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD2.jpg)
+      * The entire circuit can then be covered in heat shrink, Leave a battery in while heat shriking (! be careful not to apply to much heat to the battery!!!)
+      * Cut a slit by the open end of the modified coin cell holder so you can slide the battery in and out
+      ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_3.jpg)
+      ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_4.jpg)
+      
+  *For Puff Packet-VR  
+
+Modifying the Charger
+  
+  Modyfing the Coin Cell Holder
+  
 # Example Data
   * PuffPacket-V
   ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/voltageFiltered.jpg)
