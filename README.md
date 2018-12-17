@@ -49,7 +49,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
       * The entire circuit can then be covered in heat shrink, Leave a battery in while heat shriking (! be careful not to apply to much heat to the battery!!!)
       * Cut a slit by the open end of the modified coin cell holder so you can slide the battery in and out
       ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_3.jpg)
-      ![alt-text](![alt-text](D_4.jpg)
+      ![alt-text](![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_4.jpg)
       
       * ### For Puff Packet-VR  
 
