@@ -20,7 +20,7 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
 # Parts needed
   * [RFD22301](http://www.rfduino.com/product/rfd22301-rfduino-ble-smt/index.html) microprocessor and BLE module
   * [RFDuino programming Module](http://www.rfduino.com/product/rfd22121-usb-shield-for-rfduino/index.html)
-  * Surfacemount resistor and capacitors
+  * Surfacemount resistors and capacitors
   * [Flat Flexible Cable (FFC)](https://www.digikey.com/product-detail/en/parlex-usa-llc/PSR1635-02/AF02-5-ND/213494)
   * ENDS of your choice
   * Kapton and Double Sided Tape
