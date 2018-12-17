@@ -11,7 +11,7 @@ http://www.rfduino.com/wp-content/uploads/2015/08/RFduino-Quick-Start-Guide-08.2
 
 Other libraries needed can be found in the Arduino folder and installed as Zip libraries.
 
-The board was designed using AutoDesk Eagle, which can be download for free [https://www.autodesk.com/products/eagle/overview?mktvar002=695723&mkwid=sJkWkQvNG%7Cpcrid%7C294276762702%7Cpkw%7Cautodesk%20eagle%7Cpmt%7Ce%7Cpdv%7Cc%7Cslid%7C%7Cpgrid%7C37821440599%7Cptaid%7Ckwd-278053651839%7C&intent=EAGLE+Brand&utm_medium=cpc&utm_source=google&utm_campaign=GGL_EAGLE_US_BR_SEM_EXACT&utm_term=autodesk%20eagle&utm_content=sJkWkQvNG%7Cpcrid%7C294276762702%7Cpkw%7Cautodesk%20eagle%7Cpmt%7Ce%7Cpdv%7Cc%7Cslid%7C%7Cpgrid%7C37821440599%7Cptaid%7Ckwd-278053651839%7C&addisttype=g&s_kwcid=AL!8131199977!3!294276762702!e!!g!!autodesk%20eagle&gclid=EAIaIQobChMI1_KRlMin3wIVloTICh3Q6wR0EAAYASAAEgIc3PD_BwE]([here).
+The board was designed using AutoDesk Eagle, which can be download for free [here](https://www.autodesk.com/products/eagle/overview?mktvar002=695723&mkwid=sJkWkQvNG%7Cpcrid%7C294276762702%7Cpkw%7Cautodesk%20eagle%7Cpmt%7Ce%7Cpdv%7Cc%7Cslid%7C%7Cpgrid%7C37821440599%7Cptaid%7Ckwd-278053651839%7C&intent=EAGLE+Brand&utm_medium=cpc&utm_source=google&utm_campaign=GGL_EAGLE_US_BR_SEM_EXACT&utm_term=autodesk%20eagle&utm_content=sJkWkQvNG%7Cpcrid%7C294276762702%7Cpkw%7Cautodesk%20eagle%7Cpmt%7Ce%7Cpdv%7Cc%7Cslid%7C%7Cpgrid%7C37821440599%7Cptaid%7Ckwd-278053651839%7C&addisttype=g&s_kwcid=AL!8131199977!3!294276762702!e!!g!!autodesk%20eagle&gclid=EAIaIQobChMI1_KRlMin3wIVloTICh3Q6wR0EAAYASAAEgIc3PD_BwE).
 
 You will also need xCode to run the iOS app, be sure and change the "Team" to your developers account or personal account.
 
