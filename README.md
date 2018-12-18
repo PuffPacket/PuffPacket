@@ -51,7 +51,13 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
       ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_3.jpg)
       ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VD_4.jpg)
       
-      * ### For Puff Packet-VR  
+  * ### For Puff Packet-VR  
+    * Secure the battery, then place the charger on top and secure.
+        ![alt-text]()
+    * Attach the Battery leads to the + and - ternimals where the JST connector used to be attached.  Then run wires from ground and the 5V terminal on the modified LiPo charging circuit to female headers that will connect to the modified charger.
+        ![alt-text]()
+    * Connect Bat and GND to the LDO regulator pad on the PuffPacket-V Circuit.
+    * Test connections and secure with Heat Shrink.
 
 ## Modifying the Wall Charger
   * To modify the wall/usb charger for the ENDS, simply add conductive tape from the leads up to a surface you can mount male headers.  Solder the headers to the conductive tape and glue everything in place. We used a piece of acrylic to reinforce everything as it will be used frequently.
