@@ -28,7 +28,7 @@
 
 //#import <Firebase/Firebase.h>
 #import "ScanViewController.h"
-#import "RFduinoManager.h"
+#import "RfduinoManager.h"
 #import <SafariServices/SafariServices.h>
 
 @interface AppDelegate()

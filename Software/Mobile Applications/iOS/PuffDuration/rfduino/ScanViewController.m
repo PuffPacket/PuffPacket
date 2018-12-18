@@ -28,7 +28,7 @@
 
 #import "ScanViewController.h"
 
-#import "RFduinoManager.h"
+#import "RfduinoManager.h"
 #import "RFduino.h"
 
 #import "AppViewController.h"
@@ -160,7 +160,7 @@
     [detail appendFormat:@"RSSI: %d dBm", rssi];
     while ([detail length] < 25)
         [detail appendString:@" "];
-    [detail appendFormat:@"Packets: %d\n", rfduino.advertisementPackets];
+    [detail appendFormat:@"Packets: %ld\n", (long)rfduino.advertisementPackets];
     [detail appendFormat:@"Advertising: %@\n", advertising];
     [detail appendFormat:@"%@", uuid];
     

@@ -182,10 +182,10 @@ static CBUUID *service_uuid;
     NSLog(@"didDisconnectPeripheral");
 
     void (^block)(void) = ^{
-        if ([delegate respondsToSelector:@selector(didDisconnectRFduino:)]) {
+        if ([self->delegate respondsToSelector:@selector(didDisconnectRFduino:)]) {
             RFduino *rfduino = [self rfduinoForPeripheral:peripheral];
             if (rfduino) {
-                [delegate didDisconnectRFduino:rfduino];
+                [self->delegate didDisconnectRFduino:rfduino];
             }
         }
     };
@@ -302,7 +302,7 @@ static CBUUID *service_uuid;
 
 - (void)centralManagerDidUpdateState:(CBCentralManager *)aCentral
 {
-    NSLog(@"central manager state = %d", [central state]);
+    NSLog(@"central manager st%lde =(long) %d", [central state]);
     
     bool success = [self isBluetoothLESupported];
     if (success) {
