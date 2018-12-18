@@ -53,9 +53,9 @@ You will also need xCode to run the iOS app, be sure and change the "Team" to yo
       
   * ### For Puff Packet-VR  
     * Secure the battery, then place the charger on top and secure.
-        ![alt-text]()
+        ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VR_1.jpg)
     * Attach the Battery leads to the + and - ternimals where the JST connector used to be attached.  Then run wires from ground and the 5V terminal on the modified LiPo charging circuit to female headers that will connect to the modified charger.
-        ![alt-text]()
+        ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Images/PuffPacket-VR_2.jpg)
     * Connect Bat and GND to the LDO regulator pad on the PuffPacket-V Circuit.
     * Test connections and secure with Heat Shrink.
 
