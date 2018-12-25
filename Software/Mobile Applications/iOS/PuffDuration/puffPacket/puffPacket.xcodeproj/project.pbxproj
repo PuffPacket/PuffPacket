@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		309CF5BA21C45D3500F3F837 /* rfduino in Resources */ = {isa = PBXBuildFile; fileRef = 309CF5B921C45D3500F3F837 /* rfduino */; };
-		8EAA76C721B5AB640027B35B /* thermometer.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EAA76C621B5AB640027B35B /* thermometer.png */; };
 		8EAA76D421B5CCE10027B35B /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EAA76D321B5CCE10027B35B /* CoreLocation.framework */; };
 		8EAA76D821B83B550027B35B /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EAA76D721B83B550027B35B /* CoreMotion.framework */; };
 		AA07EB89176BF96600AB755D /* CustomCellBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = AA07EB88176BF96600AB755D /* CustomCellBackground.m */; };
@@ -34,8 +32,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		309CF5B921C45D3500F3F837 /* rfduino */ = {isa = PBXFileReference; lastKnownFileType = folder; name = rfduino; path = ../rfduino; sourceTree = "<group>"; };
-		8EAA76C621B5AB640027B35B /* thermometer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thermometer.png; sourceTree = "<group>"; };
 		8EAA76CE21B5AEA80027B35B /* rfDuinoJuul.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = rfDuinoJuul.entitlements; path = rfDuinoJuul/rfDuinoJuul.entitlements; sourceTree = "<group>"; };
 		8EAA76D321B5CCE10027B35B /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		8EAA76D721B83B550027B35B /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
@@ -93,7 +89,6 @@
 		AAC427C516C9DDB500149784 = {
 			isa = PBXGroup;
 			children = (
-				309CF5B921C45D3500F3F837 /* rfduino */,
 				8EAA76CE21B5AEA80027B35B /* rfDuinoJuul.entitlements */,
 				AA981D4717825F40008342B9 /* icon.png */,
 				AA981D4917825FAB008342B9 /* icon-72.png */,
@@ -130,7 +125,6 @@
 		AAC427DA16C9DDB500149784 /* rfduinoJuul */ = {
 			isa = PBXGroup;
 			children = (
-				8EAA76C621B5AB640027B35B /* thermometer.png */,
 				AAC427F116C9DDE600149784 /* AppViewController.h */,
 				AAC427F216C9DDE600149784 /* AppViewController.m */,
 				AAC427F316C9DDE600149784 /* AppViewController.xib */,
@@ -221,7 +215,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AAC427CA16C9DDB500149784 /* Build configuration list for PBXProject "rfduinojuul" */;
+			buildConfigurationList = AAC427CA16C9DDB500149784 /* Build configuration list for PBXProject "puffPacket" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -248,10 +242,8 @@
 				AAC427E916C9DDB500149784 /* Default@2x.png in Resources */,
 				AAC427EB16C9DDB500149784 /* Default-568h@2x.png in Resources */,
 				AAC427F516C9DDE600149784 /* AppViewController.xib in Resources */,
-				8EAA76C721B5AB640027B35B /* thermometer.png in Resources */,
 				AAE5C87616CDCB3B001005E3 /* icon@2x.png in Resources */,
 				AA981D4817825F40008342B9 /* icon.png in Resources */,
-				309CF5BA21C45D3500F3F837 /* rfduino in Resources */,
 				AA981D4A17825FAB008342B9 /* icon-72.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -411,7 +403,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AAC427CA16C9DDB500149784 /* Build configuration list for PBXProject "rfduinojuul" */ = {
+		AAC427CA16C9DDB500149784 /* Build configuration list for PBXProject "puffPacket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AAC427EC16C9DDB500149784 /* Debug */,
