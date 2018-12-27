@@ -32,7 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8EAA76CE21B5AEA80027B35B /* rfDuinoJuul.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = rfDuinoJuul.entitlements; path = rfDuinoJuul/rfDuinoJuul.entitlements; sourceTree = "<group>"; };
+		8EAA76CE21B5AEA80027B35B /* puffPacket.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = puffPacket.entitlements; path = puffPacket/puffPacket.entitlements; sourceTree = "<group>"; };
 		8EAA76D321B5CCE10027B35B /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		8EAA76D721B83B550027B35B /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
 		AA07EB87176BF96600AB755D /* CustomCellBackground.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCellBackground.h; sourceTree = "<group>"; };
@@ -44,10 +44,10 @@
 		AAC427D416C9DDB500149784 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		AAC427D616C9DDB500149784 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		AAC427D816C9DDB500149784 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		AAC427DC16C9DDB500149784 /* rfDuinoJuul-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "rfDuinoJuul-Info.plist"; sourceTree = "<group>"; };
+		AAC427DC16C9DDB500149784 /* puffPacket-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "puffPacket-Info.plist"; sourceTree = "<group>"; };
 		AAC427DE16C9DDB500149784 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AAC427E016C9DDB500149784 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AAC427E216C9DDB500149784 /* rfDuinoJuul-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "rfDuinoJuul-Prefix.pch"; sourceTree = "<group>"; };
+		AAC427E216C9DDB500149784 /* puffPacket-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "puffPacket-Prefix.pch"; sourceTree = "<group>"; };
 		AAC427E616C9DDB500149784 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		AAC427E816C9DDB500149784 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		AAC427EA16C9DDB500149784 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
@@ -89,12 +89,12 @@
 		AAC427C516C9DDB500149784 = {
 			isa = PBXGroup;
 			children = (
-				8EAA76CE21B5AEA80027B35B /* rfDuinoJuul.entitlements */,
+				8EAA76CE21B5AEA80027B35B /* puffPacket.entitlements */,
 				AA981D4717825F40008342B9 /* icon.png */,
 				AA981D4917825FAB008342B9 /* icon-72.png */,
 				AAE5C87516CDCB3B001005E3 /* icon@2x.png */,
 				AAC427F616C9DDF900149784 /* rfduino */,
-				AAC427DA16C9DDB500149784 /* rfduinoJuul */,
+				AAC427DA16C9DDB500149784 /* puffPacket */,
 				AAC427D316C9DDB500149784 /* Frameworks */,
 				AAC427D116C9DDB500149784 /* Products */,
 			);
@@ -122,7 +122,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		AAC427DA16C9DDB500149784 /* rfduinoJuul */ = {
+		AAC427DA16C9DDB500149784 /* puffPacket */ = {
 			isa = PBXGroup;
 			children = (
 				AAC427F116C9DDE600149784 /* AppViewController.h */,
@@ -130,16 +130,16 @@
 				AAC427F316C9DDE600149784 /* AppViewController.xib */,
 				AAC427DB16C9DDB500149784 /* Supporting Files */,
 			);
-			path = rfduinoJuul;
+			path = puffPacket;
 			sourceTree = "<group>";
 		};
 		AAC427DB16C9DDB500149784 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				AAC427DC16C9DDB500149784 /* rfDuinoJuul-Info.plist */,
+				AAC427DC16C9DDB500149784 /* puffPacket-Info.plist */,
 				AAC427DD16C9DDB500149784 /* InfoPlist.strings */,
 				AAC427E016C9DDB500149784 /* main.m */,
-				AAC427E216C9DDB500149784 /* rfDuinoJuul-Prefix.pch */,
+				AAC427E216C9DDB500149784 /* puffPacket-Prefix.pch */,
 				AAC427E616C9DDB500149784 /* Default.png */,
 				AAC427E816C9DDB500149784 /* Default@2x.png */,
 				AAC427EA16C9DDB500149784 /* Default-568h@2x.png */,
@@ -375,8 +375,8 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = 4GR7S95DR4;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "rfDuinoJuul/rfDuinoJuul-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/rfduinoJuul/rfDuinoJuul-Info.plist";
+				GCC_PREFIX_HEADER = "puffPacket/puffPacket-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/puffPacket/puffPacket-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = puffPacket.v1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -390,8 +390,8 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = 4GR7S95DR4;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "rfDuinoJuul/rfDuinoJuul-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/rfduinoJuul/rfDuinoJuul-Info.plist";
+				GCC_PREFIX_HEADER = "puffPacket/puffPacket-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/puffPacket/puffPacket-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = puffPacket.v1;
 				PRODUCT_NAME = "$(TARGET_NAME)";

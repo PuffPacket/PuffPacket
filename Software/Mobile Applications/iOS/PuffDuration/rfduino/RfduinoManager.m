@@ -259,7 +259,7 @@ static CBUUID *service_uuid;
     id manufacturerData = [advertisementData objectForKey:CBAdvertisementDataManufacturerDataKey];
     if (manufacturerData) {
         const uint8_t *bytes = [manufacturerData bytes];
-        int len = [manufacturerData length];
+        NSInteger len = [manufacturerData length];
         // skip manufacturer uuid
         NSData *data = [NSData dataWithBytes:bytes+2 length:len-2];
         rfduino.advertisementData = data;
@@ -302,7 +302,7 @@ static CBUUID *service_uuid;
 
 - (void)centralManagerDidUpdateState:(CBCentralManager *)aCentral
 {
-    NSLog(@"central manager st%lde =(long) %d", [central state]);
+    NSLog(@"central manager stlde =(long) %ld", (long)[central state]);
     
     bool success = [self isBluetoothLESupported];
     if (success) {
