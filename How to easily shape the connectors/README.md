@@ -16,5 +16,5 @@ This section describes, in detail, how to easily create and maintain a strong co
 * Bend the FFC over the ENDS, creating a crease in the FFC
  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/How%20to%20easily%20shape%20the%20connectors/images/bend.jpeg)
 # Finished
-* Remove the pod and inspect the FFC to see that it maintains shape.  Once the creases are formed, you can easily move the puffPacket device between devices, and interchange pods, without concern of loosing connection.
  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/How%20to%20easily%20shape%20the%20connectors/images/finished.jpeg)
+* Remove the pod and inspect the FFC to see that it maintains shape.  Once the creases are formed, you can easily move the puffPacket device between devices, and interchange pods, without concern of loosing connection.
