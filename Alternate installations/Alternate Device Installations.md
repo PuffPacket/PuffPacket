@@ -1,7 +1,7 @@
 
 # Connecting with Different types of ENDS
 ## Drip Tank
- ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate installations/images/drip.jpeg)
+ ![alt-text](https://github.com/PuffPacket/PuffPacket/Alternate installations/blob/master/images/drip.jpeg)
 The Drip tank, just like all ENDS, has a heating element, or atomizer, to create the aerosal.  
   * With the thin ribbon cable used in the puffPacket demonstrated on a Pod ENDS System. 
   * You can easily slip through the air vent and connect one lead to the center positive terminal (+), and ground on the inside wall.
