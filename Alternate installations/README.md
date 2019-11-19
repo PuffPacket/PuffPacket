@@ -37,6 +37,6 @@ To make things more modular, we have developed a simple, 3D printed case that sl
 * Use double sided tape to adhear the puffPacket circuitry to the to of the case
 * With the ribbon cable already folded, sled the case back until the connection is made with the atomizer pins
 ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/Juul_case_2.jpeg)
-![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/Juul_case_3.jpeg)
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/juul_case_3.jpeg)
 ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/Juul_case_1.jpeg)
 
