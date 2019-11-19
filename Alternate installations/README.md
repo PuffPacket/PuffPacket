@@ -17,7 +17,7 @@ The Box Mod kit, just like all ENDS, has a heating element, or atomizer, to crea
 * When dissasembled connect the thin ribbon cable of the puffPacket to the atomizer, 
 * One connection goes to the center, positive (+), the other goes to ground on the outer wall
 
-![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/indigo_disasssembled.jpeg)
+![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/indigo_disassembled.jpeg)
 *secure to the atomizer with kapton tape and slide it back into the Battery pack
 ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/Alternate%20installations/images/indigo_open.jpeg)
 
