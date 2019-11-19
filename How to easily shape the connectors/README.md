@@ -15,6 +15,6 @@ While firmly pressing the FFC and pod together so not to loose the position, sli
  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/How%20to%20easily%20shape%20the%20connectors/images/slide_in_2.jpeg)
 Bend the FFC over the ENDS, creating a crease in the FFC
  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/How%20to%20easily%20shape%20the%20connectors/images/bend.jpeg)
-# Finsihed
+# Finished
 Remove the pod and inspect the FFC to see that it maintains shape.  Once the creases are formed, you can easily move the puffPacket device between devices, and interchange pods, without concern of loosing connection.
  ![alt-text](https://github.com/PuffPacket/PuffPacket/blob/master/How%20to%20easily%20shape%20the%20connectors/images/finished.jpeg)
